@@ -1,0 +1,22 @@
+{
+  "name": "tesselbot",
+  "version": "0.0.0",
+  "description": "a chainable tessel rebot made for building simple apps easier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/turingou/tesselbot.git"
+  },
+  "keywords": [
+    "tessel"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/tesselbot/issues"
+  },
+  "homepage": "https://github.com/turingou/tesselbot"
+}
